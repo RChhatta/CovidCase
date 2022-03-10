@@ -51,9 +51,8 @@ st.write('De data van European Centre for Disease Prevention and Control wordt a
 # In[8]:
 
 
-data = pd.read_csv('https://opendata.ecdc.europa.eu/covid19/vaccine_tracker/csv/data.csv')
-data2 = pd.read_csv('https://opendata.ecdc.europa.eu/covid19/testing/csv/data.csv')
-
+data = pd.read_csv('data.csv')
+data2 = pd.read_csv('data_newcases.csv')
 
 # In[55]:
 
