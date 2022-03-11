@@ -108,7 +108,7 @@ data = data.replace(to_replace=11522440,value =11522440-2312122)''', language = 
 # In[14]:
 
 
-st.write('Vervolgens hebben we nieuwe variabelen aangemaakt. Er is per land en per week gekeken naar het aantal mensen die de eerste dosis, twee dosis en booster prik hebben genomen. Hiervan is de cumulatieve som van genomen.')
+st.write('Vervolgens hebben we nieuwe variabelen aangemaakt. Er is per land en per week gekeken naar het aantal mensen die de eerste dosis, twee dosis en booster prik hebben genomen. Hier is de cumulatieve som van genomen.')
 
 
 # In[51]:
@@ -220,7 +220,7 @@ CountrySelect = data[data['ReportingCountry']==InputCountry]
 # In[24]:
 
 
-st.write('Hieronder is de gefilterde dataframe van de geselecteerde land te zien:')
+st.write('Hieronder is het gefilterde dataframe van het geselecteerde land te zien:')
 
 
 # In[25]:
