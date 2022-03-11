@@ -76,7 +76,7 @@ st.write('We zijn begonnen met het verkennen van de datasets. De kolommen ‘Reg
 # In[11]:
 
 
-st.write('Van de rijen waarvan de leeftijdsgroep niet overeenkomen met ‘ALL’ in de kolom ‘TargetGroup’  worden verwijderd. Dit is omdat er alleen naar de leeftijdsgroep ‘ALL’ (18+) is gekeken. ')
+st.write('Van de rijen waarvan de leeftijdsgroep niet overeenkomen met ‘ALL’ in de kolom ‘TargetGroup’  worden verwijderd. Dit is omdat er alleen naar de leeftijdsgroep ‘ALL’ (18+) is gekeken. Daarnaast is de 'Population' aangepast naar de populatie 18+. Dit is gedaan door middel van onderstaande berekening. ')
 
 
 # In[12]:
